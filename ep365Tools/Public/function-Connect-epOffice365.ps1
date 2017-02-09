@@ -1,0 +1,4 @@
+function Connect-epOffice365 {
+    <#
+    #>
+}
